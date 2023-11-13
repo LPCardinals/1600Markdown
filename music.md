@@ -4,6 +4,10 @@ I'm an avid lister of music, and I'm passionate about a certain genre in particu
 
 <br>
 
+'print("I love music!")'
+
+<br>
+
 [Read Me](https://github.com/LPCardinals/1600Markdown/blob/main/README.md)
 
 <br>
