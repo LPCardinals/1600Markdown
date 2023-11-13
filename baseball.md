@@ -4,10 +4,12 @@ Maybe my most passionate area of interest is in baseball. I've been watching bas
 
 <br>
 
+'''
 {
   statement = "I love baseball"
   print(statement)
 }
+'''
 
 <br>
 
