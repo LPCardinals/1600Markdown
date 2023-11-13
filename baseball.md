@@ -4,15 +4,6 @@ Maybe my most passionate area of interest is in baseball. I've been watching bas
 
 <br>
 
-'''
-{
-  statement = "I love baseball"
-  print(statement)
-}
-'''
-
-<br>
-
 [Read Me](https://github.com/LPCardinals/1600Markdown/blob/main/README.md)
 
 <br>
